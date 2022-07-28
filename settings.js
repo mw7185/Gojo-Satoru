@@ -14,7 +14,7 @@ global.APIs = {522212bb-9ded-44aa-b18a-9401dd43f16e
 }
 
 //Api Key\\
-global.APIKeys = {
+global.APIKeys = {522212bb-9ded-44aa-b18a-9401dd43f16e
 	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 
@@ -29,7 +29,7 @@ global.ig = 'https://github.com/mw7815'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/mw7815/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = '➳ᴹᴿ᭄〽️.ᙎꪖᕴᗅ𝘴'
+global.packname = 'mw712'
 global.author = '🐦Star Boy Nexus'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
